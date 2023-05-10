@@ -1,6 +1,6 @@
-- name: Home
+- name: Domů
   link: /
-- name: About
-  link: /about.html
-- name: Blog
+- name: Tablo
+  link: /tablo.html
+- name: Výlety
   link: /blog.html
